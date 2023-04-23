@@ -1,7 +1,6 @@
 <h1 align="center">Prazer 👋, Me chamo Arthur Lopes</h1>
-<h3 align="center">Assistente de Ti em uma Multinacional Chinesa no Ramos Logistico </h3>
+<h1 align="center">Assistente de Ti em uma Multinacional Chinesa no Ramos Logistico </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al00pes" alt="al00pes" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando **J&T Express**
 - 🌱 Estou apredendo **Python,SQL and English**
