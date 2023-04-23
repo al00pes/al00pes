@@ -1,13 +1,5 @@
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -16,17 +8,16 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Prazer, Arthur Lopes. Sou um Profissional extremamente competente e comunicativo. Me interesso por tudo que seja referente a área de Tecnologia da Informação, com o intuito de aprimorar meus conhecimentos e me desenvolver profissionalmente ,podendo contribuir com os resultados e objetivos da empresa.Sou um Profissional extremamente competente e comunicativo. Tenho interesses por tudo que seja referente a área de Tecnologia da Informação, com o intuito de aprimorar meus conhecimentos e me desenvolver profissionalmente ,podendo contribuir com os resultados e objetivos da empresa.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
+- 💼 Freelancer ? Estarei sempre pronto, [email](mailto:arthurlopes.ti@gmail.com) :)
+- 💬 Pergunte-me sobre qualquer coisa, ficarei feliz em ajudar
+**linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -43,7 +34,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 39 mins   ██████████████████▓░░░░░░   74.54 %
+TypeScript   2 hrs 39 mins   ██████████████████▓░░░░░░   79.54 %
 JSON         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
 JavaScript   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
 Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
