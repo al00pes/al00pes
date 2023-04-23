@@ -1,30 +1,30 @@
-<h1 align="center">Hi 👋, I'm Arthur Lopes</h1>
-<h3 align="center">Assistente de Ti em uma Multinacional Chinesa no Ramos Logistico ( Last-male)</h3>
+ +1,4 @@
+<h1 align="center">Awesome GitHub Profile README 
+<h1 align="center">Awesome GitHub Profile README
+<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<div align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+@@ -119,6 +119,7 @@
+- [iampavangandhi](https://github.com/iampavangandhi/iampavangandhi)
+- [Dani Akash](https://github.com/daniakash/daniakash)
+- [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
+- [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al00pes&label=Profile%20views&color=0e75b6&style=flat" alt="al00pes" /> </p>
+#### A Little Bit of Everything 😃
+- [Raymond Li](https://github.com/Raymo111/Raymo111)
+@@ -281,6 +282,7 @@
+- [Vistor Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
+- [Shields Project](https://shields.io/) - Use Shields to create profile badges, compatible with Simple Icons
+- [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Get dynamically generated GitHub stats on your readmes
+- [Github Contributor Stats](https://github.com/HwangTaehyun/github-contributor-stats) - :fire: Get dynamically generated Github Contributor stats (repositories you really committed) on your readmes
+- [GitHub Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [Simple Icons](https://github.com/simple-icons/simple-icons#cdn-usage) -  SVG icons for popular brands for your README.md files
+- [Laravel GitHub Profile Visit Counter](https://github.com/caneco/laravel-github-profile-view-counter) - Add on your Laravel project a quick-badge to count your profile visits.
+@@ -353,7 +355,7 @@ Please read the [contribution guidelines](contributing.md) first.
+## Special Thanks 🙇
+- [Zetao Zhuang](https://github.com/zzetao) for making the amazing site for this repo!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al00pes" alt="al00pes" /></a> </p>
+## License 
+## License
 
-- 🔭 I’m currently working on **J&T Express**
-
-- 🌱 I’m currently learning **Python,SQL and English**
-
-- 👯 I’m looking to collaborate on **project in python,sql and network computer**
-
-- 📫 How to reach me **arthurlopes.ti@gmail.com**
-
-- ⚡ Fun fact **Nature,knowledge and technology**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al00pes&show_icons=true&locale=en&layout=compact" alt="al00pes" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al00pes&show_icons=true&locale=en" alt="al00pes" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al00pes&" alt="al00pes" /></p>
-
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
