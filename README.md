@@ -1,9 +1,10 @@
-<h3 align="center">Seja bem vindo! Me chamo, Arthur Lopes</h3>
+<h3 align="center">Seja bem vindo(a) ! Me chamo, Arthur Lopes</h3>
 <h3 align="center">Analista de Suporte em uma Multinacional Chinesa no segmento logistico  </h3><hr> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-- 🎓 Graduado em **Redes de Computadores**
+- 🎓 Graduado em **Redes de Computadores - Unicarioca**  
+- 🎓 Cursando **Pós Gradução de Ciência de dados e Analitysc - PUC-RJ**
 - 🔭 Atualmente estou trabalhando **J&T Express**
-- 🌱 Estou aprendendo **Python,SQL e o idioma Inglês**
+- 🌱 Estou aprendendo **Python,SQL, e o idioma Inglês**
 - 👯 Eu procuro colaborar **Forúns de Python e Banco de dados**
 - 📫 Estou sempre disponivel em **arthurlopes.ti@gmail.com**
 - ⚡ Curiosidades sobre mim **Sou apaixonado pela natureza,por conhecimento e pela Tecnologia**
