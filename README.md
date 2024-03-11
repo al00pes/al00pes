@@ -2,7 +2,7 @@
 <h3 align="center">Analista de Suporte em uma Multinacional Chinesa no segmento logistico  </h3><hr> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 - 🎓 Graduado em **Redes de Computadores - Unicarioca**  
-- 🎓 Cursando **Pós Gradução de Ciência de dados e Analitysc - PUC-RJ**
+- 🎓  **Pós Graduado de Ciência de dados e Analitysc - PUC-Rio**
 - 🔭 Atualmente estou trabalhando **J&T Express**
 - 🌱 Estou aprendendo **Python,SQL, e o idioma Inglês**
 - 👯 Eu procuro colaborar **Forúns de Python e Banco de dados**
