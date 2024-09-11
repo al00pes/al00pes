@@ -3,8 +3,7 @@
 
 - 🎓 Graduado em **Redes de Computadores - Unicarioca**  
 - 🎓  **Pós Graduado de Ciência de dados e Analitysc - PUC-Rio**
-- 🔭 Atualmente estou trabalhando **J&T Express**
-- 🌱 Estou aprendendo **Python,SQL, e o idioma Inglês**
+- 🌱 Sempre aprendendo **Python,SQL, e o idioma Inglês**
 - 👯 Eu procuro colaborar **Forúns de Python e Banco de dados**
 - 📫 Estou sempre disponivel em **arthurlopes.ti@gmail.com**
 - ⚡ Curiosidades sobre mim **Sou apaixonado pela natureza,por conhecimento e pela Tecnologia**
